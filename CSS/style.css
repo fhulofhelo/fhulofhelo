@@ -1,0 +1,35 @@
+
+h1#myfirstid{
+  color: yellowish orange;
+ font-size: 3em;
+ padding: 5px;
+ border: 4px brown dotted;
+ }
+
+body{
+   background-color:pink;
+ }
+img{
+  border: 10px brown dotted ;
+  width: 200px;
+  height: 150px;
+  transation: 0.1s ease;
+}
+
+li:hover{
+  font-size: 40px
+}
+
+ img:hover{
+   height: 150px;
+   width: 150px;
+}
+
+ li{
+   transation: 0.3s ease;
+}
+p{color:grey;
+}
+body{
+  back-ground:purple;
+}
